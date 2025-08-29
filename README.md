@@ -1,25 +1,22 @@
-<h1>👋 Hi, I'm SAHIL KUMAR MAHTO</h1>
-![kobayashi-san-chi-no-maid-dragon-anime](https://github.com/user-attachments/assets/fb10062a-6c01-461f-84cb-425befb34c06)
+<img align="right" alt ="Coding" width="3000px" height="5px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9mYTl0eWJncWs4Nmszb3BwMjQ5bXJxZnYwNGxhY3RybHdtemZrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otO6NFBIAFg2vPZuM/giphy.gif">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20SAHIL%20KUMAR%20MAHTO%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=A%20passionate%20developer%20from%20Bihar,%20India&descSize=20&descAlignY=55&descAlign=50)
 
 
-</p><h3 align="center">A passionate developer from India who loves anime and coding</h3>
-🌟 About Me
-🔭 I'm currently working on Forever - an anime-inspired E-Commerce website for wearable products
+<img align="right" alt ="Coding" width="275px" height="275x" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhxNG1wMHV4MDJmajlrdXkxYzBhZ2k5NW85dmg4ODJpM2FhczU3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif">
 
-🌱 I'm currently learning React, Tailwind, MongoDB, PostgreSql
+<br>
+<p></p>
 
-👯 I'm looking to collaborate on Full-stack Projects with anime themes
+- 👋 Hi, I’m Sahil Kumar @N-PCs
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Computer Science Engineering
+- 📫 How to reach me sahilkumarmahto365@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Always Curious!   :)
 
-💬 Ask me about react and anime recommendations!
+</br>
 
-📫 How to reach me: sahilkumarmahto@gmail.com
 
-⚡ Fun fact: I code while watching anime series in the background
-
-🎌 Anime Tech Stack
-<p align="left"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"> <img src="https://media.giphy.com/media/UtEd87c8HRS3NlgnBm/giphy.gif" width="50"> </p><p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahilkumar121&show_icons=true&theme=tokyonight&hide_border=true" alt="sahilkumar121" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkumar121&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilkumar121&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" /> </p>
-🎮 Connect With Me
 <p align="center"> <a href="https://twitter.com/sahil_youknow" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahil_youknow" height="30" width="40" /> </a> <a href="https://instagram.com/sahil_ddlg_kkkg" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil_ddlg_kkkg" height="30" width="40" /> </a> <a href="https://codeforces.com/profile/sahilmahto365" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sahilmahto365" height="30" width="40" /> </a> <a href="https://www.leetcode.com/sahil_kumar_mahto" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil_kumar_mahto" height="30" width="40" /> </a> </p><p align="center"> <img src="https://media.giphy.com/media/3orieSqplb2f5NQq2A/giphy.gif" width="200" alt="Anime coding scene"> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahilkumar121&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkumar121" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahilkumar121&label=Profile%20views&color=0e75b6&style=flat
