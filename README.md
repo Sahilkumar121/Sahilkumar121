@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilkumar121" alt="sahilkumar121" /></a> </p>
 
-- 🔭 I’m currently working on **Forever**
+- 🔭 I’m currently working on **Forever** - a E-Commerce website for wearable product
 
 - 🌱 I’m currently learning **React, Tailwind, MongoDB, PostgreSql**
 
