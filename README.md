@@ -1,5 +1,5 @@
-👋 Hi, I'm SAHIL KUMAR MAHTO
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z0b3R5cDl0dW9jY3R3Z3V4Y2V4d2V4dGZ2b2NqYzZ1bmZqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2RjdbZmQjiblgkoiS/giphy.gif" width="300" alt="Anime welcome banner"> </p><h3 align="center">A passionate developer from India who loves anime and coding</h3>
+<h1>👋 Hi, I'm SAHIL KUMAR MAHTO</h1>
+<p align="center"> <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z0b3R5cDl0dW9jY3R3Z3V4Y2V4d2V4dGZ2b2NqYzZ1bmZqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2RjdbZmQjiblgkoiS/giphy.gif](https://tenor.com/en-GB/view/anime-welcome-youre-welcome-gif-13984218)" width="300" alt="Anime welcome banner"> </p><h3 align="center">A passionate developer from India who loves anime and coding</h3>
 🌟 About Me
 🔭 I'm currently working on Forever - an anime-inspired E-Commerce website for wearable products
 
