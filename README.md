@@ -12,7 +12,6 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Computer Science Engineering
 - 📫 How to reach me sahilkumarmahto365@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Always Curious!   :)
 
 </br>
