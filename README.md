@@ -8,7 +8,7 @@
 <br>
 <p></p>
 
-- 👋 Hi, I’m Sahil Kumar @N-PCs
+- 👋 Hi, I’m Sahil Kumar
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Computer Science Engineering
 - 📫 How to reach me sahilkumarmahto365@gmail.com
