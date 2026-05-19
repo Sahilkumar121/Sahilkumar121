@@ -13,14 +13,6 @@
 [![Codolio](https://img.shields.io/badge/Codolio-2C3E50?style=for-the-badge&logo=about.me&logoColor=white)](https://codolio.com/profile/DeepSleep)
 
 <br>
-<p></p>
-
-- 👋 Hi, I’m **Sahil Kumar**
-- 👀 I’m passionate about **Data Science**, **DSA**, and **Competitive Programming**
-
-- 🌱 Currently pursuing **Computer Science Engineering** with a focus on algorithms, data analysis, and problem-solving
-- 📫 Reach me at **sahilkumarmahto365@gmail.com**
-- ⚡ Fun fact: I turn curiosity into code – always exploring, always optimizing!:)
 
 </br>
 
