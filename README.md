@@ -3,11 +3,11 @@
 
 
 ## 👋 About Me
-- 🎓 I'm currently a 2nd-year student at **VIT Bhopal**.
-- 💻 Learing about **Competitive Programming**, **Data Science**, and **Machine Learning**.
+- 🎓 I'm currently a 3rd-year student at **VIT Bhopal**.
+- 💻 Learing about **Competitive Programming**, **Data Science**, **Backend** and **Machine Learning**.
 - ⚙️ Daily driver: **Linux** and **Neovim**.
-- 🚀 Currently working on ML models, NLP Text Classification, and Recommendation Systems.
-- 📫 How to reach me: **[Add your Email here]**
+- 🚀 Currently working on API.
+- 📫 How to reach me: **[sahilkumarmahto365@gmail.com]**
 
 ## 🏆 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sahil_kumar_mahto/)
