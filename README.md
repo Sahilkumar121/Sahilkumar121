@@ -1,9 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=SAHIL%20KUMAR&textBg=false&reversal=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sahil%20Kumar%20Mahto&fontSize=72&animation=fadeIn&fontAlignY=38&fontColor=ffffff&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
 
 <div align="center">
-  <h3>Hi there! 👋 I'm Sahil, a college student mastering Web Development & Machine Learning.</h3>
-  <p>I specialize in Competitive Programming, Data Science, and building efficient backend systems.</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Python+Developer;Problem+Solver;Open+Source+Contributor;Always+Learning+,Always+Building)](https://git.io/typing-svg)
+
+[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sahil_youknow)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/neel-pandey-4b7469324](https://www.linkedin.com/in/sahil-kumar-527189328/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_sahil_k_m)
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23333333.svg?style=for-the-badge&logo=Leetcode&logoColor=orange)](https://leetcode.com/sahil_kumar_mahto)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%23FFFFFF.svg?style=for-the-badge&logo=Codeforces)](https://codeforces.com/profile/sahilmahto365)
+
+
+
 </div>
+
+
+  <h3>Hi there! 👋 I'm Sahil, a college student mastering Backend Development & Machine Learning.</h3>
+  <p>I specialize in Competitive Programming, Data Science, and building efficient backend systems.</p>
 
 ---
 
@@ -25,17 +38,25 @@
 - **Car Price Prediction Model:** End-to-end machine learning model involving extensive exploratory data analysis (EDA).
 
 ## 🛠️ Tech Stack & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <!-- Added FastAPI and Redis icons to your stack -->
-    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,mysql,fastapi,redis,github,git,figma,postman,linux,arch,ubuntu,neovim,bash" alt="My Skills" />
-  </a>
-</p>
+<div align="center">
+
+### Languages
+![My Skills](https://skillicons.dev/icons?i=cpp,python&theme=dark)
+### Frontend
+![My Skills](https://skillicons.dev/icons?i=html,css,react,next,tailwind&theme=dark)
+### Backend & DB
+![My Skills](https://skillicons.dev/icons?i=fastapi,postgresql,sqlite,mysql,mongodb&theme=dark)
+### Tools & Environment 
+![My Skills](https://skillicons.dev/icons?i=linux,git,vscodeps&theme=dark)
+
+</div>
 
 ## 📊 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sahil_kumar_mahto/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sahilmahto365)
 [![Codolio](https://img.shields.io/badge/Codolio-2C3E50?style=for-the-badge&logo=about.me&logoColor=white)](https://codolio.com/profile/DeepSleep)
+
+
 
 ## 📈 GitHub & LeetCode Stats
 <div align="center">
