@@ -39,16 +39,12 @@
 
 ## 📈 GitHub & LeetCode Stats
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-h55p.vercel.app/api?username=Sahilkumar121&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://leetcard.jacoblin.cool/sahil_kumar_mahto?theme=dark&font=Noto%20Sans%20Kaithi&ext=heatmap&v=1" alt="LeetCode Stats" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://leetcard.jacoblin.cool/sahil_kumar_mahto?theme=dark&font=Noto%20Sans%20Kaithi&ext=heatmap&v=1" alt="LeetCode Stats" />
+       
+</div>
+
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Sahilkumar121&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" width="100%"/>
 </div>
 
 ## 🤝 Let's Connect
