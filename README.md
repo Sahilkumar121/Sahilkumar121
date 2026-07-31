@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_sahil_k_m)
 [![Leetcode](https://img.shields.io/badge/Leetcode-%23333333.svg?style=for-the-badge&logo=Leetcode&logoColor=orange)](https://leetcode.com/sahil_kumar_mahto)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23FFFFFF.svg?style=for-the-badge&logo=Codeforces)](https://codeforces.com/profile/sahilmahto365)
-
+[![Codolio](https://img.shields.io/badge/Codolio-%23121212.svg?style=for-the-badge)](https://codolio.com/profile/DeepSleep)
 
 
 </div>
@@ -50,12 +50,6 @@
 ![My Skills](https://skillicons.dev/icons?i=linux,git,vscodeps&theme=dark)
 
 </div>
-
-## 📊 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sahil_kumar_mahto/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sahilmahto365)
-[![Codolio](https://img.shields.io/badge/Codolio-2C3E50?style=for-the-badge&logo=about.me&logoColor=white)](https://codolio.com/profile/DeepSleep)
-
 
 
 ## 📈 GitHub & LeetCode Stats
