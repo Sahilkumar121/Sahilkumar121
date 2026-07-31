@@ -23,8 +23,8 @@
 ## 🚀 About Me
 - 🎓 3rd-year student at **VIT Bhopal**.
 - 💻 Actively participating in **Competitive Programming** (C++) on LeetCode, Codeforces, and AtCoder.
-- ⚙️ Daily driver: **pearOS (Arch Linux)** & **Neovim (NvChad)**.
-- 🔭 Currently building robust APIs and an **NLP Text Classification** system.
+- ⚙️ Daily driver: **Ubuntu (Linux)** & **Neovim (LazyVim)**.
+- 🔭 Currently building robust **APIs** and an **NLP Text Classification** system.
 - 📫 Reach me at: **[sahilkumarmahto365@gmail.com](mailto:sahilkumarmahto365@gmail.com)**
 
 ## 🏆 Achievements
