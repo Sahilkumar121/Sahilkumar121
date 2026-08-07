@@ -40,6 +40,8 @@
 ## 🛠️ Tech Stack & Tools
 <div align="center">
 
+  <!--
+
 ### Languages
 ![My Skills](https://skillicons.dev/icons?i=cpp,python&theme=dark)
 ### Frontend
@@ -48,6 +50,14 @@
 ![My Skills](https://skillicons.dev/icons?i=fastapi,postgresql,sqlite,mysql,mongodb&theme=dark)
 ### Tools & Environment 
 ![My Skills](https://skillicons.dev/icons?i=linux,git,vscodeps&theme=dark)
+  -->
+  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/stack?username=Sahilkumar121&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
+    <img src="https://gitskins.com/api/section/stack?username=Sahilkumar121&theme=neon&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 stack section" />
+  </picture>
+</p>
 
 </div>
 
@@ -58,13 +68,32 @@
        
 </div>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/stats?username=Sahilkumar121&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
+    <img src="https://gitskins.com/api/section/stats?username=Sahilkumar121&theme=neon&nw=ISgQ6lDVTIIGxo5e" alt="Sahil stats section" />
+  </picture>
+</p>
+
+<!--
 <div align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=Sahilkumar121&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" width="100%"/>
 </div>
+-->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/projects?username=Sahilkumar121&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
+    <img src="https://gitskins.com/api/section/projects?username=Sahilkumar121&theme=neon&nw=ISgQ6lDVTIIGxo5e" alt="Sahil kumar 121 projects section" />
+  </picture>
+</p>
 
 ## 🤝 Let's Connect
-<p align="left">
-  <a href="https://linkedin.com/in/sahil-kumar-527189328" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://x.com/sahil_youknow" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/_sahil_k_insta/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/social?username=Sahilkumar121&theme=neon&nw=Sahilkumar121&x=sahil_youknow&instagram=sahil_k_m&mode=light" />
+    <img src="https://gitskins.com/api/section/social?username=Sahilkumar121&theme=neon&nw=Sahilkumar121&x=sahil_youknow&instagram=sahil_k_m" alt="Sahilkumar121 social section" />
+  </picture>
 </p>
