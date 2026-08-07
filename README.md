@@ -14,30 +14,81 @@
 
 </div>
 
-
-  <h3>Hi there! 👋 I'm Sahil, a college student mastering Backend Development & Machine Learning.</h3>
+<div align="center">
+  <h2>Hi there! 👋 I'm Sahil</h2>
+  <h4>A college student mastering Backend Development & Machine Learning.</h4>
   <p>I specialize in Competitive Programming, Data Science, and building efficient backend systems.</p>
+</div>
 
 ---
 
-## 🚀 About Me
+<br>
+
+<img align="right" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Anime Coding GIF" />
+
+### 🚀 About Me
+
 - 🎓 3rd-year student at **VIT Bhopal**.
 - 💻 Actively participating in **Competitive Programming** (C++) on LeetCode, Codeforces, and AtCoder.
 - ⚙️ Daily driver: **Ubuntu (Linux)** & **Neovim (LazyVim)**.
 - 🔭 Currently building robust **APIs** and an **NLP Text Classification** system.
 - 📫 Reach me at: **[sahilkumarmahto365@gmail.com](mailto:sahilkumarmahto365@gmail.com)**
 
-## 🏆 Achievements
-- 🥇 **1st Place** in the **DSA LEAGUE** competition.
+<br clear="both"/>
+
+<br>
+
+---
+
+### 🏆 Achievements
+
+> 🥇 **1st Place** in the **DSA LEAGUE** competition.
+
+<br>
 
 ## 💻 Recent Projects
-- **E-Commerce API:** Scalable backend system built with **FastAPI** and **SQLAlchemy**, featuring **Redis** for caching and **SlowAPI** for robust rate limiting.
-- **URL Shortener:** High-performance URL shortening service developed using **FastAPI**, backed by **SQLAlchemy** for database management, integrated with **Redis** and **SlowAPI**.
-- **Movie Recommendation System:** Built a recommendation engine using Python and Scikit-learn, deployed with Streamlit.
-- **SMS Spam Classifier:** Implemented text vectorization and a Naive Bayes model to detect spam, integrated into a web application.
-- **Car Price Prediction Model:** End-to-end machine learning model involving extensive exploratory data analysis (EDA).
 
-## 🛠️ Tech Stack & Tools
+<br>
+
+### 🛒 [E-Commerce API](#)
+> Scalable backend system engineered for high performance, featuring efficient caching and robust rate limiting.
+> <br>
+> **Tech Stack:** `FastAPI` • `SQLAlchemy` • `Redis` • `SlowAPI`
+
+---
+
+### 🔗 [URL Shortener](#)
+> High-performance URL shortening service backed by a solid database architecture and integrated caching.
+> <br>
+> **Tech Stack:** `FastAPI` • `SQLAlchemy` • `Redis` • `SlowAPI`
+
+---
+
+### 🍿 [Movie Recommendation System](#)
+> Intelligent recommendation engine leveraging machine learning, deployed with an interactive front-end.
+> <br>
+> **Tech Stack:** `Python` • `Scikit-learn` • `Streamlit`
+
+---
+
+### 🛡️ [SMS Spam Classifier](#)
+> Integrated web application utilizing text vectorization and a Naive Bayes model for real-time spam detection.
+> <br>
+> **Tech Stack:** `Python` • `Naive Bayes` • `NLP`
+
+---
+
+### 🏎️ [Car Price Prediction Model](#)
+> End-to-end machine learning pipeline involving extensive exploratory data analysis (EDA) to forecast pricing.
+> <br>
+> **Tech Stack:** `Python` • `Machine Learning` • `EDA`
+
+<br>
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 🛠️ Most Tools Used
 <div align="center">
 
   <!--
@@ -67,7 +118,7 @@
   <img src="https://leetcard.jacoblin.cool/sahil_kumar_mahto?theme=dark&font=Noto%20Sans%20Kaithi&ext=heatmap&v=1" alt="LeetCode Stats" />
        
 </div>
-
+<br>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/stats?username=Sahilkumar121&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
