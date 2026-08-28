@@ -5,12 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Python+Developer;Problem+Solver;REST+FULL+API;Always+Learning+,Always+Building)](https://git.io/typing-svg)
 
 [![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sahil_youknow)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/neel-pandey-4b7469324](https://www.linkedin.com/in/sahil-kumar-527189328/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kumar-527189328/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_sahil_k_m)
 [![Leetcode](https://img.shields.io/badge/Leetcode-%23333333.svg?style=for-the-badge&logo=Leetcode&logoColor=orange)](https://leetcode.com/sahil_kumar_mahto)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23FFFFFF.svg?style=for-the-badge&logo=Codeforces)](https://codeforces.com/profile/sahilmahto365)
 [![Codolio](https://img.shields.io/badge/Codolio-%23121212.svg?style=for-the-badge)](https://codolio.com/profile/DeepSleep)
-
 
 </div>
 
@@ -57,31 +56,10 @@
 
 ---
 
-### 🔗 [URL Shortener](#)
+### 🔗 https://www.shorturl.at/(#)
 > High-performance URL shortening service backed by a solid database architecture and integrated caching.
 > <br>
 > **Tech Stack:** `FastAPI` • `SQLAlchemy` • `Redis` • `SlowAPI`
-
----
-
-### 🍿 [Movie Recommendation System](#)
-> Intelligent recommendation engine leveraging machine learning, deployed with an interactive front-end.
-> <br>
-> **Tech Stack:** `Python` • `Scikit-learn` • `Streamlit`
-
----
-
-### 🛡️ [SMS Spam Classifier](#)
-> Integrated web application utilizing text vectorization and a Naive Bayes model for real-time spam detection.
-> <br>
-> **Tech Stack:** `Python` • `Naive Bayes` • `NLP`
-
----
-
-### 🏎️ [Car Price Prediction Model](#)
-> End-to-end machine learning pipeline involving extensive exploratory data analysis (EDA) to forecast pricing.
-> <br>
-> **Tech Stack:** `Python` • `Machine Learning` • `EDA`
 
 <br>
 
@@ -91,19 +69,7 @@
 ## 🛠️ Most Tools Used
 <div align="center">
 
-  <!--
-
-### Languages
-![My Skills](https://skillicons.dev/icons?i=cpp,python&theme=dark)
-### Frontend
-![My Skills](https://skillicons.dev/icons?i=html,css,react,next,tailwind&theme=dark)
-### Backend & DB
-![My Skills](https://skillicons.dev/icons?i=fastapi,postgresql,sqlite,mysql,mongodb&theme=dark)
-### Tools & Environment 
-![My Skills](https://skillicons.dev/icons?i=linux,git,vscodeps&theme=dark)
-  -->
-  
-<p align="center">
+  <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/stack?username=Sahilkumar121&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
     <img src="https://gitskins.com/api/section/stack?username=Sahilkumar121&theme=neon&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 stack section" />
@@ -126,12 +92,6 @@
   </picture>
 </p>
 
-<!--
-<div align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=Sahilkumar121&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" width="100%"/>
-</div>
--->
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/projects?username=Sahilkumar121&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
@@ -140,7 +100,6 @@
 </p>
 
 ## 🤝 Let's Connect
-
 
 <p align="center">
   <picture>
